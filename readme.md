@@ -7,9 +7,9 @@ Simple web app personal dashboard for send sms to single contact or group contac
 * Create accound [Nexmo](https://www.nexmo.com/)
 * Get API Nexmo and set Test Number
 * copy file `.env.example` to `.env`
+* Configuration `.env`
 * run `php artisan key:generate`
 * run `touch database\database.sqlite`
-* Configuration `.env`
 * run `php artisan migrate`
 
 ## Screenshoot
