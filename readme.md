@@ -1,5 +1,5 @@
 # Esemesin App
-Simple web app personal dashboard for send sms to single contact or group contact. Build with Laravel 5.4 and Nexmo API. 
+Simple web app personal dashboard for send sms to single contact or group contact. Build with Laravel 5.4 and Nexmo API
 
 ## Instalation 
 * Clone or (Download dan Extract) 
